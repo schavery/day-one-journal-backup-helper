@@ -1,0 +1,7 @@
+# Process day one's journal backup
+
+Some functions to help write separate files from a backup.txt file.
+
+To run again:
+`poetry run jupyter notebook`
+
